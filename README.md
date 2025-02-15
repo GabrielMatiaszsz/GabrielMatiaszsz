@@ -4,7 +4,7 @@
 <ul>
 <li>👾 Currently, I work as a Front-End Developer & UX/UI Designer.</li>
 <li>🎓 Information Systems Student</li>
-<li>💻 Currently studying the MERN stack.</li>
+<li>💻 Currently studying Python and Flutter.</li>
 </ul>
 
 ## 🌐 Socials:
