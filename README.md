@@ -1,7 +1,7 @@
 <h1>👋 Hello there, I’m @gabrielmatiasz_</h1>
 
 # 💫 About Me:
-<ul> <li>👾 I'm currently working as a Mobile Developer and I'm also passionate about Data.</li>
+<ul> <li>👾 I'm currently working as a Mobile Developer.</li>
  <li>🎓 Information Systems student, always curious and eager to learn more.</li> 
  <li>💻 I'm currently studying Python, Flutter, and exploring technologies for data analysis such as Pandas, NumPy, SQL, and Power BI.</li> </ul>
 
