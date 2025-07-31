@@ -1,9 +1,9 @@
 <h1>👋 Hello there, I’m @gabrielmatiasz_</h1>
 
 # 💫 About Me:
-<ul> <li>👾 I'm currently working as a Mobile Developer.</li>
+<ul> <li>👾 I'm currently working as a Full Stack Developer.</li>
  <li>🎓 Information Systems student, always curious and eager to learn more.</li> 
- <li>💻 I'm currently studying Python, Flutter, and exploring technologies for data analysis such as Pandas, NumPy, SQL, and Power BI.</li> </ul>
+ <li>💻 I'm currently studying Python, Flutter,React and exploring technologies for deveplopment such as Pandas, .Net, Angular and Flask .</li> </ul>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabrielmatiasz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-matias-da-silva/) 
